@@ -1,3 +1,5 @@
+Artificial intelligence The fox and the hunters:
+
 Implementación de un juego llamado "El Zorro y los Cazadores" utilizando la biblioteca Pygame en Python. El juego consiste en un tablero cuadriculado donde un zorro (representado por una imagen) debe intentar evitar ser capturado por los cazadores (también representados por imágenes) que se mueven por el tablero. El objetivo del zorro es llegar a la parte superior del tablero, mientras que los cazadores intentan bloquear su camino.
 
 ![image](https://github.com/YakoViTo/FoxAndHounds/assets/135473233/1b89adae-bde4-46ee-b2d1-ee1f34b09c9c)
