@@ -1,5 +1,4 @@
 #Kavir Alvarado CI: 26.256.604
-#Eliana Rodríguez CI: 13.690.091
 import pygame
 from copy import deepcopy
 import time
