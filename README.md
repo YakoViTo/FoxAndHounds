@@ -1,11 +1,11 @@
 Artificial intelligence The fox and the hunters:
 
-Implementación de un juego llamado "El Zorro y los Cazadores" utilizando la biblioteca Pygame en Python. El juego consiste en un tablero cuadriculado donde un zorro (representado por una imagen) debe intentar evitar ser capturado por los cazadores (también representados por imágenes) que se mueven por el tablero. El objetivo del zorro es llegar a la parte superior del tablero, mientras que los cazadores intentan bloquear su camino.
+Implementation of a game called "The Fox and the Hunters" with AI and using the Pygame library in Python. The game consists of a grid board where a fox (represented by an image) must try to avoid being captured by hunters (also represented by images) moving around the board. The fox's goal is to reach the top of the board, while the hunters try to block its path.
 
 ![image](https://github.com/YakoViTo/FoxAndHounds/assets/135473233/1b89adae-bde4-46ee-b2d1-ee1f34b09c9c)
 
-El juego permite a los jugadores alternar turnos entre el zorro y los cazadores. El zorro puede moverse diagonalmente hacia arriba o hacia abajo en el tablero, mientras que los cazadores solo se mueven diagonalmente hacia abajo. El zorro puede evadir a los cazadores moviéndose estratégicamente y aprovechando las oportunidades para avanzar hacia la parte superior.
+The game allows players to alternate turns between the fox and the hunters. The fox can move diagonally up or down the board, while the hunters only move diagonally down. The fox can evade the hunters by moving strategically and taking advantage of opportunities to advance to the top.
 
-El programa utiliza el algoritmo Minimax para tomar decisiones automáticas para los movimientos de los cazadores. El algoritmo evalúa las posibles jugadas y selecciona la mejor opción en función de una función de evaluación que considera varios factores, como la posición del zorro, la distancia entre las piezas y la posibilidad de victoria.
+The program uses the Minimax algorithm to make automatic decisions for hunter moves. The algorithm evaluates the possible moves and selects the best option based on an evaluation function that considers several factors, such as the position of the fox, the distance between the pieces and the chance of winning.
 
-En general, el programa implementa la lógica del juego "El Zorro y los Cazadores" y ofrece una interfaz gráfica mediante la biblioteca Pygame para que los jugadores interactúen con el juego y jueguen tanto contra la computadora (cazadores controlados por el algoritmo Minimax) como entre sí.
+In general, the program implements the logic of the game "The Fox and the Hunters" and provides a graphical interface through the Pygame library for players to interact with the game and play both against the computer (hunters controlled by the Minimax algorithm) and against each other.
